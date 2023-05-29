@@ -5,10 +5,10 @@ packages:
     dependency: transitive
     description:
       name: _discoveryapis_commons
-      sha256: efd530ec09e3fea98529b0d2b192495e252e336c6e93ea8df1875e6e823ebc62
+      sha256: f8bb1fdbd77f3d5c1d62b5b0eca75fbf1e41bf4f6c62628f880582e2182ae45d
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.5"
+    version: "1.0.6"
   ansicolor:
     dependency: "direct main"
     description:
@@ -23,21 +23,21 @@ packages:
       path: "../app_package_maker"
       relative: true
     source: path
-    version: "0.3.1"
+    version: "0.3.2"
   app_package_parser:
     dependency: "direct overridden"
     description:
       path: "../app_package_parser"
       relative: true
     source: path
-    version: "0.2.3"
+    version: "0.2.4"
   app_package_publisher:
     dependency: "direct main"
     description:
       path: "../app_package_publisher"
       relative: true
     source: path
-    version: "0.3.1"
+    version: "0.3.2"
   archive:
     dependency: transitive
     description:
@@ -148,7 +148,7 @@ packages:
       path: "../flutter_app_builder"
       relative: true
     source: path
-    version: "0.3.2"
+    version: "0.3.3"
   flutter_app_packager:
     dependency: "direct main"
     description:
@@ -162,7 +162,7 @@ packages:
       path: "../flutter_app_publisher"
       relative: true
     source: path
-    version: "0.3.1"
+    version: "0.3.2"
   get_it:
     dependency: transitive
     description:
@@ -191,10 +191,10 @@ packages:
     dependency: transitive
     description:
       name: googleapis_auth
-      sha256: f59be210ede1e22718962e4ef48a08ae783eb67fe19b0f4c16b204e20df0869c
+      sha256: af7c3a3edf9d0de2e1e0a77e994fae0a581c525fa7012af4fa0d4a52ed9484da
       url: "https://pub.dev"
     source: hosted
-    version: "1.4.0"
+    version: "1.4.1"
   http:
     dependency: transitive
     description:
@@ -255,10 +255,10 @@ packages:
     dependency: "direct main"
     description:
       name: logging
-      sha256: "04094f2eb032cbb06c6f6e8d3607edcfcb0455e2bb6cbc010cb01171dcb64e6d"
+      sha256: "623a88c9594aa774443aa3eb2d41807a48486b5613e67599fb4c41c0ad47c340"
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.1"
+    version: "1.2.0"
   meta:
     dependency: transitive
     description:
@@ -270,12 +270,11 @@ packages:
   msix:
     dependency: transitive
     description:
-      path: "."
-      ref: "feat/locate_msix_assets_path_from_script_file_directory"
-      resolved-ref: "68ed974fb2786ff22d0cad6e5e4c4def4466ec53"
-      url: "https://github.com/lijy91/msix.git"
-    source: git
-    version: "3.13.0"
+      name: msix
+      sha256: "5dbf26361fbff0e74abd06c80f0b446476c739eea017d833d15e093c3c778fdd"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.13.2"
   mustache_template:
     dependency: transitive
     description:
@@ -361,14 +360,14 @@ packages:
       path: "../shell_executor"
       relative: true
     source: path
-    version: "0.1.2"
+    version: "0.1.3"
   shell_uikit:
     dependency: "direct main"
     description:
       path: "../shell_uikit"
       relative: true
     source: path
-    version: "0.1.0"
+    version: "0.1.1"
   source_span:
     dependency: transitive
     description:

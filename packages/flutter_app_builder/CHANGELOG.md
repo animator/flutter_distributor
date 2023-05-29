@@ -1,3 +1,11 @@
+## 0.3.3
+
+* [apk-builer] fix apk not found 
+
+## 0.3.2
+
+* Update dart sdk version to ">=2.16.0 <4.0.0"
+
 ## 0.3.1
 
 * Bump `shell_executor` to 0.1.2.
