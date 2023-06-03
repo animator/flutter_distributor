@@ -1,3 +1,11 @@
+## 0.3.5
+
+* [deb-maker] Supports custom binary name
+
+## 0.3.4
+
+* bump `shell_executor` to 0.1.4
+
 ## 0.3.2
 
 * Update dart sdk version to ">=2.16.0 <4.0.0"
